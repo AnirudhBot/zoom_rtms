@@ -8,7 +8,9 @@
     "start": "node --env-file=.env index.js"
   },
   "dependencies": {
-    "@zoom/rtms": "^0.0.2"
+    "@zoom/rtms": "^0.0.2",
+    "express": "^4.21.2",
+    "localtunnel": "^2.0.2"
   },
   "author": "Zoom Communications, Inc.",
   "license": "MIT"
